@@ -1,1 +1,7 @@
-public function Login($username,$password){}
+public function Login($username,$password){
+return $confirm;
+}
+
+public function BuscarCancion($TempText){
+return $list_songs;
+}
