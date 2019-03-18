@@ -1,1 +1,2 @@
 crear usuario(){}
+crear playlist(){}
