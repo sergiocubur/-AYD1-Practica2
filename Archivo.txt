@@ -2,6 +2,9 @@
 crear usuario(){}
 crear playlist(){}
 
+public function reproducir($nombre){
+return $music;
+}
 public function Login($username,$password){
 return $confirm;
 }

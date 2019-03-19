@@ -1,1 +1,3 @@
-public function Reproducir(){}
+public function Reproducir($cancion){
+return $music
+}
