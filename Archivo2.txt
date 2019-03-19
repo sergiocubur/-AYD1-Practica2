@@ -1,4 +1,8 @@
 public function Reproducir($cancion){
+
 $cancion=1;
 if($cancion==1){return $cancion_no_aleatoria;}
+else{
+return $music;
+}
 }
